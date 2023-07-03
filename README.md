@@ -88,3 +88,7 @@ Add labels, legend, title, gridlines, limits, and shadow effects to the plot usi
 Show and save the plot as an image file with dpi=500 in ‘png’ using the matplotlib.pyplot.show() and figure.savefig() functions.
 
 Close plot material B using the matplotlib.pyplot.close() function.
+
+Funding
+
+This research was funded by Bulgarian National Science Fund, Project № КП-06-Н57/20 “Fabrication of new type of self-lubricating antifriction metal matrix composite materials with improved mechanical and tribological properties”.
