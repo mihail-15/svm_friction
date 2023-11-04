@@ -89,6 +89,7 @@ Show and save the plot as an image file with dpi=500 in ‘png’ using the matp
 
 Close plot material B using the matplotlib.pyplot.close() function.
 
-Funding
 
-This research was funded by Bulgarian National Science Fund, Project № КП-06-Н57/20 “Fabrication of new type of self-lubricating antifriction metal matrix composite materials with improved mechanical and tribological properties”.
+Citation
+
+Kolev, M. Svm_friction: A Python Based Software for Calculating, Data Analysis and Modeling the Coefficient of Friction of Aluminum Metal Matrix Composites Using Support Vector Regression. Softw. Impacts 2023, 100561, doi:10.1016/j.simpa.2023.100561. 
